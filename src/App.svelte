@@ -83,5 +83,6 @@ table th {
 }
 tr>th{
 	background-color: aliceblue;
+	color:black
 }
 </style>
