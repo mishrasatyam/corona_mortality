@@ -1,5 +1,6 @@
 <script>
-	export let data_promise;	
+	export let data_promise;
+	
 	let tab="world";
 	let table_data = [];
 	let mortality_rate_data = [];
@@ -69,7 +70,7 @@
 	<h6 style="text-align:center" class="link" on:click={()=>tab='world'}>Go back</h6>
 	<div class="form-group">
 		<label>Search by state</label>
-		<i class="form-control" bind:value={search_state_text} on:keyup={search_state}>
+		<input type="search" class="form-control" bind:value={search_state_text} on:keyup={search_state}>
 	</div>
 	<table class="table table-bordered">
 		<thead>
