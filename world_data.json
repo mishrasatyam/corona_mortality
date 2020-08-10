@@ -1,0 +1,2155 @@
+{
+    "data": [
+        {
+            "country": "Yemen",
+            "death_rate": "28.55",
+            "death": "515",
+            "active_rate": "20.84",
+            "active": "376",
+            "recovered_rate": "50.61",
+            "recovered": "913",
+            "rank": 215
+        },
+        {
+            "country": "MS Zaandam",
+            "death_rate": "22.22",
+            "death": "2",
+            "active_rate": "77.78",
+            "active": "7",
+            "recovered_rate": "0.00",
+            "recovered": "0",
+            "rank": 214
+        },
+        {
+            "country": "France",
+            "death_rate": "15.32",
+            "death": "30,324",
+            "active_rate": "42.83",
+            "active": "84,761",
+            "recovered_rate": "41.85",
+            "recovered": "82,836",
+            "rank": 213
+        },
+        {
+            "country": "UK",
+            "death_rate": "14.93",
+            "death": "46,526",
+            "active_rate": "85.07",
+            "active": "265,115",
+            "recovered_rate": "0.00",
+            "recovered": "0",
+            "rank": 212
+        },
+        {
+            "country": "Italy",
+            "death_rate": "14.04",
+            "death": "35,209",
+            "active_rate": "5.33",
+            "active": "13,368",
+            "recovered_rate": "80.63",
+            "recovered": "202,248",
+            "rank": 211
+        },
+        {
+            "country": "Belgium",
+            "death_rate": "13.31",
+            "death": "9,872",
+            "active_rate": "62.71",
+            "active": "46,500",
+            "recovered_rate": "23.98",
+            "recovered": "17,780",
+            "rank": 210
+        },
+        {
+            "country": "Hungary",
+            "death_rate": "12.79",
+            "death": "605",
+            "active_rate": "12.70",
+            "active": "601",
+            "recovered_rate": "74.51",
+            "recovered": "3,525",
+            "rank": 209
+        },
+        {
+            "country": "British Virgin Islands",
+            "death_rate": "11.11",
+            "death": "1",
+            "active_rate": "11.11",
+            "active": "1",
+            "recovered_rate": "77.78",
+            "recovered": "7",
+            "rank": 208
+        },
+        {
+            "country": "Mexico",
+            "death_rate": "10.89",
+            "death": "52,298",
+            "active_rate": "21.97",
+            "active": "105,515",
+            "recovered_rate": "67.14",
+            "recovered": "322,465",
+            "rank": 207
+        },
+        {
+            "country": "Netherlands",
+            "death_rate": "10.40",
+            "death": "6,157",
+            "active_rate": "89.60",
+            "active": "53,037",
+            "recovered_rate": "0.00",
+            "recovered": "0",
+            "rank": 206
+        },
+        {
+            "country": "Western Sahara",
+            "death_rate": "10.00",
+            "death": "1",
+            "active_rate": "10.00",
+            "active": "1",
+            "recovered_rate": "80.00",
+            "recovered": "8",
+            "rank": 205
+        },
+        {
+            "country": "Sint Maarten",
+            "death_rate": "8.99",
+            "death": "17",
+            "active_rate": "45.50",
+            "active": "86",
+            "recovered_rate": "45.50",
+            "recovered": "86",
+            "rank": 204
+        },
+        {
+            "country": "Chad",
+            "death_rate": "8.05",
+            "death": "76",
+            "active_rate": "3.07",
+            "active": "29",
+            "recovered_rate": "88.88",
+            "recovered": "839",
+            "rank": 203
+        },
+        {
+            "country": "Spain",
+            "death_rate": "7.89",
+            "death": "28,503",
+            "active_rate": "92.11",
+            "active": "332,939",
+            "recovered_rate": "0.00",
+            "recovered": "0",
+            "rank": 202
+        },
+        {
+            "country": "Channel Islands",
+            "death_rate": "7.87",
+            "death": "47",
+            "active_rate": "2.85",
+            "active": "17",
+            "recovered_rate": "89.28",
+            "recovered": "533",
+            "rank": 201
+        },
+        {
+            "country": "Montserrat",
+            "death_rate": "7.69",
+            "death": "1",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "92.31",
+            "recovered": "12",
+            "rank": 200
+        },
+        {
+            "country": "Canada",
+            "death_rate": "7.50",
+            "death": "8,982",
+            "active_rate": "3.97",
+            "active": "4,755",
+            "recovered_rate": "88.53",
+            "recovered": "105,986",
+            "rank": 199
+        },
+        {
+            "country": "Isle of Man",
+            "death_rate": "7.14",
+            "death": "24",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "92.86",
+            "recovered": "312",
+            "rank": 198
+        },
+        {
+            "country": "Sweden",
+            "death_rate": "6.95",
+            "death": "5,766",
+            "active_rate": "93.05",
+            "active": "77,206",
+            "recovered_rate": "0.00",
+            "recovered": "0",
+            "rank": 197
+        },
+        {
+            "country": "Ireland",
+            "death_rate": "6.62",
+            "death": "1,772",
+            "active_rate": "6.10",
+            "active": "1,632",
+            "recovered_rate": "87.28",
+            "recovered": "23,364",
+            "rank": 196
+        },
+        {
+            "country": "Sudan",
+            "death_rate": "6.53",
+            "death": "781",
+            "active_rate": "41.06",
+            "active": "4,909",
+            "recovered_rate": "52.41",
+            "recovered": "6,266",
+            "rank": 195
+        },
+        {
+            "country": "Liberia",
+            "death_rate": "6.37",
+            "death": "79",
+            "active_rate": "35.16",
+            "active": "436",
+            "recovered_rate": "58.47",
+            "recovered": "725",
+            "rank": 194
+        },
+        {
+            "country": "Ecuador",
+            "death_rate": "6.26",
+            "death": "5,932",
+            "active_rate": "10.73",
+            "active": "10,161",
+            "recovered_rate": "83.01",
+            "recovered": "78,608",
+            "rank": 193
+        },
+        {
+            "country": "San Marino",
+            "death_rate": "6.01",
+            "death": "42",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "93.99",
+            "recovered": "657",
+            "rank": 192
+        },
+        {
+            "country": "Niger",
+            "death_rate": "5.96",
+            "death": "69",
+            "active_rate": "2.76",
+            "active": "32",
+            "recovered_rate": "91.28",
+            "recovered": "1,057",
+            "rank": 191
+        },
+        {
+            "country": "Bermuda",
+            "death_rate": "5.70",
+            "death": "9",
+            "active_rate": "3.16",
+            "active": "5",
+            "recovered_rate": "91.14",
+            "recovered": "144",
+            "rank": 190
+        },
+        {
+            "country": "Slovenia",
+            "death_rate": "5.68",
+            "death": "128",
+            "active_rate": "7.41",
+            "active": "167",
+            "recovered_rate": "86.92",
+            "recovered": "1,960",
+            "rank": 189
+        },
+        {
+            "country": "Iran",
+            "death_rate": "5.66",
+            "death": "18,616",
+            "active_rate": "7.17",
+            "active": "23,586",
+            "recovered_rate": "87.17",
+            "recovered": "286,642",
+            "rank": 188
+        },
+        {
+            "country": "China",
+            "death_rate": "5.47",
+            "death": "4,634",
+            "active_rate": "0.95",
+            "active": "802",
+            "recovered_rate": "93.58",
+            "recovered": "79,232",
+            "rank": 187
+        },
+        {
+            "country": "Switzerland",
+            "death_rate": "5.41",
+            "death": "1,987",
+            "active_rate": "6.60",
+            "active": "2,421",
+            "recovered_rate": "87.99",
+            "recovered": "32,300",
+            "rank": 186
+        },
+        {
+            "country": "Andorra",
+            "death_rate": "5.40",
+            "death": "52",
+            "active_rate": "7.48",
+            "active": "72",
+            "recovered_rate": "87.12",
+            "recovered": "839",
+            "rank": 185
+        },
+        {
+            "country": "Egypt",
+            "death_rate": "5.25",
+            "death": "5,009",
+            "active_rate": "39.59",
+            "active": "37,805",
+            "recovered_rate": "55.16",
+            "recovered": "52,678",
+            "rank": 184
+        },
+        {
+            "country": "Barbados",
+            "death_rate": "4.93",
+            "death": "7",
+            "active_rate": "16.20",
+            "active": "23",
+            "recovered_rate": "78.87",
+            "recovered": "112",
+            "rank": 183
+        },
+        {
+            "country": "Mali",
+            "death_rate": "4.86",
+            "death": "125",
+            "active_rate": "18.62",
+            "active": "479",
+            "recovered_rate": "76.53",
+            "recovered": "1,969",
+            "rank": 182
+        },
+        {
+            "country": "Guadeloupe",
+            "death_rate": "4.83",
+            "death": "14",
+            "active_rate": "31.03",
+            "active": "90",
+            "recovered_rate": "64.14",
+            "recovered": "186",
+            "rank": 181
+        },
+        {
+            "country": "Martinique",
+            "death_rate": "4.76",
+            "death": "16",
+            "active_rate": "66.07",
+            "active": "222",
+            "recovered_rate": "29.17",
+            "recovered": "98",
+            "rank": 180
+        },
+        {
+            "country": "Indonesia",
+            "death_rate": "4.54",
+            "death": "5,765",
+            "active_rate": "30.75",
+            "active": "39,082",
+            "recovered_rate": "64.71",
+            "recovered": "82,236",
+            "rank": 179
+        },
+        {
+            "country": "Angola",
+            "death_rate": "4.49",
+            "death": "75",
+            "active_rate": "61.60",
+            "active": "1,030",
+            "recovered_rate": "33.91",
+            "recovered": "567",
+            "rank": 178
+        },
+        {
+            "country": "Burkina Faso",
+            "death_rate": "4.49",
+            "death": "54",
+            "active_rate": "13.79",
+            "active": "166",
+            "recovered_rate": "81.73",
+            "recovered": "984",
+            "rank": 177
+        },
+        {
+            "country": "Macedonia",
+            "death_rate": "4.42",
+            "death": "528",
+            "active_rate": "27.86",
+            "active": "3,327",
+            "recovered_rate": "67.72",
+            "recovered": "8,087",
+            "rank": 176
+        },
+        {
+            "country": "Peru",
+            "death_rate": "4.41",
+            "death": "21,072",
+            "active_rate": "27.81",
+            "active": "132,932",
+            "recovered_rate": "67.78",
+            "recovered": "324,020",
+            "rank": 175
+        },
+        {
+            "country": "Finland",
+            "death_rate": "4.38",
+            "death": "333",
+            "active_rate": "3.79",
+            "active": "288",
+            "recovered_rate": "91.83",
+            "recovered": "6,980",
+            "rank": 174
+        },
+        {
+            "country": "Romania",
+            "death_rate": "4.36",
+            "death": "2,729",
+            "active_rate": "47.18",
+            "active": "29,507",
+            "recovered_rate": "48.46",
+            "recovered": "30,311",
+            "rank": 173
+        },
+        {
+            "country": "Germany",
+            "death_rate": "4.26",
+            "death": "9,260",
+            "active_rate": "4.78",
+            "active": "10,403",
+            "recovered_rate": "90.96",
+            "recovered": "197,900",
+            "rank": 172
+        },
+        {
+            "country": "Denmark",
+            "death_rate": "4.18",
+            "death": "620",
+            "active_rate": "8.57",
+            "active": "1,270",
+            "recovered_rate": "87.24",
+            "recovered": "12,925",
+            "rank": 171
+        },
+        {
+            "country": "Syrian Arab Republic",
+            "death_rate": "4.14",
+            "death": "52",
+            "active_rate": "66.85",
+            "active": "839",
+            "recovered_rate": "29.00",
+            "recovered": "364",
+            "rank": 170
+        },
+        {
+            "country": "Tanzania",
+            "death_rate": "4.13",
+            "death": "21",
+            "active_rate": "59.92",
+            "active": "305",
+            "recovered_rate": "35.95",
+            "recovered": "183",
+            "rank": 169
+        },
+        {
+            "country": "Bolivia",
+            "death_rate": "4.04",
+            "death": "3,640",
+            "active_rate": "62.84",
+            "active": "56,551",
+            "recovered_rate": "33.12",
+            "recovered": "29,808",
+            "rank": 168
+        },
+        {
+            "country": "Guatemala",
+            "death_rate": "3.91",
+            "death": "2,211",
+            "active_rate": "17.31",
+            "active": "9,796",
+            "recovered_rate": "78.79",
+            "recovered": "44,598",
+            "rank": 167
+        },
+        {
+            "country": "Guyana",
+            "death_rate": "3.87",
+            "death": "22",
+            "active_rate": "62.85",
+            "active": "357",
+            "recovered_rate": "33.27",
+            "recovered": "189",
+            "rank": 166
+        },
+        {
+            "country": "Saint Martin",
+            "death_rate": "3.85",
+            "death": "3",
+            "active_rate": "39.74",
+            "active": "31",
+            "recovered_rate": "56.41",
+            "recovered": "44",
+            "rank": 165
+        },
+        {
+            "country": "Fiji",
+            "death_rate": "3.70",
+            "death": "1",
+            "active_rate": "29.63",
+            "active": "8",
+            "recovered_rate": "66.67",
+            "recovered": "18",
+            "rank": 164
+        },
+        {
+            "country": "Greece",
+            "death_rate": "3.70",
+            "death": "213",
+            "active_rate": "30.13",
+            "active": "1,732",
+            "recovered_rate": "66.17",
+            "recovered": "3,804",
+            "rank": 163
+        },
+        {
+            "country": "Kyrgyzstan",
+            "death_rate": "3.68",
+            "death": "1,474",
+            "active_rate": "16.18",
+            "active": "6,485",
+            "recovered_rate": "80.14",
+            "recovered": "32,126",
+            "rank": 162
+        },
+        {
+            "country": "Algeria",
+            "death_rate": "3.67",
+            "death": "1,312",
+            "active_rate": "26.55",
+            "active": "9,480",
+            "recovered_rate": "69.78",
+            "recovered": "24,920",
+            "rank": 161
+        },
+        {
+            "country": "Sierra Leone",
+            "death_rate": "3.60",
+            "death": "69",
+            "active_rate": "20.92",
+            "active": "401",
+            "recovered_rate": "75.48",
+            "recovered": "1,447",
+            "rank": 160
+        },
+        {
+            "country": "Lithuania",
+            "death_rate": "3.58",
+            "death": "81",
+            "active_rate": "22.69",
+            "active": "514",
+            "recovered_rate": "73.73",
+            "recovered": "1,670",
+            "rank": 159
+        },
+        {
+            "country": "Afghanistan",
+            "death_rate": "3.57",
+            "death": "1,328",
+            "active_rate": "25.85",
+            "active": "9,606",
+            "recovered_rate": "70.58",
+            "recovered": "26,228",
+            "rank": 158
+        },
+        {
+            "country": "Iraq",
+            "death_rate": "3.56",
+            "death": "5,464",
+            "active_rate": "24.96",
+            "active": "38,345",
+            "recovered_rate": "71.48",
+            "recovered": "109,790",
+            "rank": 157
+        },
+        {
+            "country": "Poland",
+            "death_rate": "3.45",
+            "death": "1,809",
+            "active_rate": "26.19",
+            "active": "13,724",
+            "recovered_rate": "70.36",
+            "recovered": "36,877",
+            "rank": 156
+        },
+        {
+            "country": "Bulgaria",
+            "death_rate": "3.34",
+            "death": "447",
+            "active_rate": "38.65",
+            "active": "5,177",
+            "recovered_rate": "58.02",
+            "recovered": "7,772",
+            "rank": 155
+        },
+        {
+            "country": "Brazil",
+            "death_rate": "3.33",
+            "death": "101,269",
+            "active_rate": "26.97",
+            "active": "819,620",
+            "recovered_rate": "69.70",
+            "recovered": "2,118,460",
+            "rank": 154
+        },
+        {
+            "country": "Portugal",
+            "death_rate": "3.33",
+            "death": "1,759",
+            "active_rate": "23.60",
+            "active": "12,466",
+            "recovered_rate": "73.07",
+            "recovered": "38,600",
+            "rank": 153
+        },
+        {
+            "country": "Colombia",
+            "death_rate": "3.31",
+            "death": "12,842",
+            "active_rate": "41.80",
+            "active": "161,951",
+            "recovered_rate": "54.89",
+            "recovered": "212,688",
+            "rank": 152
+        },
+        {
+            "country": "Austria",
+            "death_rate": "3.27",
+            "death": "723",
+            "active_rate": "6.21",
+            "active": "1,373",
+            "recovered_rate": "90.52",
+            "recovered": "20,010",
+            "rank": 151
+        },
+        {
+            "country": "Antigua and Barbuda",
+            "death_rate": "3.26",
+            "death": "3",
+            "active_rate": "14.13",
+            "active": "13",
+            "recovered_rate": "82.61",
+            "recovered": "76",
+            "rank": 150
+        },
+        {
+            "country": "Curaçao",
+            "death_rate": "3.23",
+            "death": "1",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "96.77",
+            "recovered": "30",
+            "rank": 149
+        },
+        {
+            "country": "USA",
+            "death_rate": "3.18",
+            "death": "165,874",
+            "active_rate": "45.57",
+            "active": "2,379,692",
+            "recovered_rate": "51.25",
+            "recovered": "2,676,444",
+            "rank": 148
+        },
+        {
+            "country": "Honduras",
+            "death_rate": "3.15",
+            "death": "1,495",
+            "active_rate": "82.95",
+            "active": "39,362",
+            "recovered_rate": "13.90",
+            "recovered": "6,597",
+            "rank": 147
+        },
+        {
+            "country": "Nicaragua",
+            "death_rate": "3.15",
+            "death": "123",
+            "active_rate": "22.19",
+            "active": "866",
+            "recovered_rate": "74.65",
+            "recovered": "2,913",
+            "rank": 146
+        },
+        {
+            "country": "Malawi",
+            "death_rate": "3.13",
+            "death": "146",
+            "active_rate": "45.88",
+            "active": "2,137",
+            "recovered_rate": "50.99",
+            "recovered": "2,375",
+            "rank": 145
+        },
+        {
+            "country": "Lesotho",
+            "death_rate": "3.10",
+            "death": "23",
+            "active_rate": "73.32",
+            "active": "544",
+            "recovered_rate": "23.58",
+            "recovered": "175",
+            "rank": 144
+        },
+        {
+            "country": "Albania",
+            "death_rate": "3.06",
+            "death": "200",
+            "active_rate": "45.24",
+            "active": "2,957",
+            "recovered_rate": "51.70",
+            "recovered": "3,379",
+            "rank": 143
+        },
+        {
+            "country": "Moldova",
+            "death_rate": "3.05",
+            "death": "850",
+            "active_rate": "27.62",
+            "active": "7,691",
+            "recovered_rate": "69.32",
+            "recovered": "19,300",
+            "rank": 142
+        },
+        {
+            "country": "Monaco",
+            "death_rate": "3.01",
+            "death": "4",
+            "active_rate": "12.03",
+            "active": "16",
+            "recovered_rate": "84.96",
+            "recovered": "113",
+            "rank": 141
+        },
+        {
+            "country": "Cuba",
+            "death_rate": "2.98",
+            "death": "88",
+            "active_rate": "14.02",
+            "active": "414",
+            "recovered_rate": "83.00",
+            "recovered": "2,451",
+            "rank": 140
+        },
+        {
+            "country": "Tunisia",
+            "death_rate": "2.97",
+            "death": "51",
+            "active_rate": "23.35",
+            "active": "401",
+            "recovered_rate": "73.68",
+            "recovered": "1,265",
+            "rank": 139
+        },
+        {
+            "country": "Zambia",
+            "death_rate": "2.94",
+            "death": "241",
+            "active_rate": "14.21",
+            "active": "1,167",
+            "recovered_rate": "82.85",
+            "recovered": "6,802",
+            "rank": 138
+        },
+        {
+            "country": "Bosnia",
+            "death_rate": "2.93",
+            "death": "425",
+            "active_rate": "40.79",
+            "active": "5,914",
+            "recovered_rate": "56.28",
+            "recovered": "8,159",
+            "rank": 137
+        },
+        {
+            "country": "Estonia",
+            "death_rate": "2.92",
+            "death": "63",
+            "active_rate": "6.16",
+            "active": "133",
+            "recovered_rate": "90.92",
+            "recovered": "1,962",
+            "rank": 136
+        },
+        {
+            "country": "Mauritius",
+            "death_rate": "2.91",
+            "death": "10",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "97.09",
+            "recovered": "334",
+            "rank": 135
+        },
+        {
+            "country": "Somalia",
+            "death_rate": "2.88",
+            "death": "93",
+            "active_rate": "43.57",
+            "active": "1,406",
+            "recovered_rate": "53.55",
+            "recovered": "1,728",
+            "rank": 134
+        },
+        {
+            "country": "Trinidad and Tobago",
+            "death_rate": "2.86",
+            "death": "8",
+            "active_rate": "47.86",
+            "active": "134",
+            "recovered_rate": "49.29",
+            "recovered": "138",
+            "rank": 133
+        },
+        {
+            "country": "Croatia",
+            "death_rate": "2.80",
+            "death": "158",
+            "active_rate": "10.36",
+            "active": "585",
+            "recovered_rate": "86.85",
+            "recovered": "4,906",
+            "rank": 132
+        },
+        {
+            "country": "Uruguay",
+            "death_rate": "2.73",
+            "death": "37",
+            "active_rate": "14.12",
+            "active": "191",
+            "recovered_rate": "83.15",
+            "recovered": "1,125",
+            "rank": 131
+        },
+        {
+            "country": "Chile",
+            "death_rate": "2.70",
+            "death": "10,139",
+            "active_rate": "4.68",
+            "active": "17,563",
+            "recovered_rate": "92.61",
+            "recovered": "347,342",
+            "rank": 130
+        },
+        {
+            "country": "El Salvador",
+            "death_rate": "2.70",
+            "death": "563",
+            "active_rate": "50.73",
+            "active": "10,589",
+            "recovered_rate": "46.57",
+            "recovered": "9,720",
+            "rank": 129
+        },
+        {
+            "country": "Norway",
+            "death_rate": "2.65",
+            "death": "256",
+            "active_rate": "5.67",
+            "active": "548",
+            "recovered_rate": "91.68",
+            "recovered": "8,857",
+            "rank": 128
+        },
+        {
+            "country": "Latvia",
+            "death_rate": "2.48",
+            "death": "32",
+            "active_rate": "14.57",
+            "active": "188",
+            "recovered_rate": "82.95",
+            "recovered": "1,070",
+            "rank": 127
+        },
+        {
+            "country": "Turkey",
+            "death_rate": "2.42",
+            "death": "5,858",
+            "active_rate": "4.62",
+            "active": "11,169",
+            "recovered_rate": "92.96",
+            "recovered": "224,970",
+            "rank": 126
+        },
+        {
+            "country": "Mauritania",
+            "death_rate": "2.41",
+            "death": "157",
+            "active_rate": "12.86",
+            "active": "839",
+            "recovered_rate": "84.73",
+            "recovered": "5,527",
+            "rank": 125
+        },
+        {
+            "country": "Haiti",
+            "death_rate": "2.40",
+            "death": "183",
+            "active_rate": "32.34",
+            "active": "2,469",
+            "recovered_rate": "65.26",
+            "recovered": "4,982",
+            "rank": 124
+        },
+        {
+            "country": "DRC",
+            "death_rate": "2.36",
+            "death": "224",
+            "active_rate": "9.51",
+            "active": "902",
+            "recovered_rate": "88.13",
+            "recovered": "8,363",
+            "rank": 123
+        },
+        {
+            "country": "Ukraine",
+            "death_rate": "2.35",
+            "death": "1,922",
+            "active_rate": "43.53",
+            "active": "35,676",
+            "recovered_rate": "54.12",
+            "recovered": "44,359",
+            "rank": 122
+        },
+        {
+            "country": "Serbia",
+            "death_rate": "2.29",
+            "death": "646",
+            "active_rate": "30.61",
+            "active": "8,651",
+            "recovered_rate": "67.10",
+            "recovered": "18,965",
+            "rank": 121
+        },
+        {
+            "country": "Zimbabwe",
+            "death_rate": "2.24",
+            "death": "104",
+            "active_rate": "66.85",
+            "active": "3,108",
+            "recovered_rate": "30.91",
+            "recovered": "1,437",
+            "rank": 120
+        },
+        {
+            "country": "Japan",
+            "death_rate": "2.22",
+            "death": "1,040",
+            "active_rate": "28.71",
+            "active": "13,431",
+            "recovered_rate": "69.07",
+            "recovered": "32,312",
+            "rank": 119
+        },
+        {
+            "country": "Panama",
+            "death_rate": "2.20",
+            "death": "1,639",
+            "active_rate": "32.36",
+            "active": "24,105",
+            "recovered_rate": "65.44",
+            "recovered": "48,748",
+            "rank": 118
+        },
+        {
+            "country": "Cameroon",
+            "death_rate": "2.19",
+            "death": "395",
+            "active_rate": "12.90",
+            "active": "2,327",
+            "recovered_rate": "84.91",
+            "recovered": "15,320",
+            "rank": 117
+        },
+        {
+            "country": "Libyan Arab Jamahiriya",
+            "death_rate": "2.18",
+            "death": "119",
+            "active_rate": "84.96",
+            "active": "4,631",
+            "recovered_rate": "12.86",
+            "recovered": "701",
+            "rank": 116
+        },
+        {
+            "country": "Togo",
+            "death_rate": "2.17",
+            "death": "23",
+            "active_rate": "29.06",
+            "active": "308",
+            "recovered_rate": "68.77",
+            "recovered": "729",
+            "rank": 115
+        },
+        {
+            "country": "Pakistan",
+            "death_rate": "2.14",
+            "death": "6,097",
+            "active_rate": "6.25",
+            "active": "17,799",
+            "recovered_rate": "91.61",
+            "recovered": "260,764",
+            "rank": 114
+        },
+        {
+            "country": "Brunei",
+            "death_rate": "2.11",
+            "death": "3",
+            "active_rate": "0.70",
+            "active": "1",
+            "recovered_rate": "97.18",
+            "recovered": "138",
+            "rank": 113
+        },
+        {
+            "country": "Czechia",
+            "death_rate": "2.11",
+            "death": "390",
+            "active_rate": "27.53",
+            "active": "5,081",
+            "recovered_rate": "70.35",
+            "recovered": "12,983",
+            "rank": 112
+        },
+        {
+            "country": "S. Korea",
+            "death_rate": "2.09",
+            "death": "305",
+            "active_rate": "4.53",
+            "active": "663",
+            "recovered_rate": "93.38",
+            "recovered": "13,658",
+            "rank": 111
+        },
+        {
+            "country": "Senegal",
+            "death_rate": "2.09",
+            "death": "236",
+            "active_rate": "32.58",
+            "active": "3,686",
+            "recovered_rate": "65.33",
+            "recovered": "7,390",
+            "rank": 110
+        },
+        {
+            "country": "Nigeria",
+            "death_rate": "2.03",
+            "death": "945",
+            "active_rate": "26.72",
+            "active": "12,446",
+            "recovered_rate": "71.25",
+            "recovered": "33,186",
+            "rank": 109
+        },
+        {
+            "country": "India",
+            "death_rate": "2.00",
+            "death": "45,352",
+            "active_rate": "28.29",
+            "active": "641,333",
+            "recovered_rate": "69.71",
+            "recovered": "1,580,269",
+            "rank": 108
+        },
+        {
+            "country": "Armenia",
+            "death_rate": "1.97",
+            "death": "796",
+            "active_rate": "17.36",
+            "active": "7,021",
+            "recovered_rate": "80.67",
+            "recovered": "32,616",
+            "rank": 107
+        },
+        {
+            "country": "Benin",
+            "death_rate": "1.96",
+            "death": "38",
+            "active_rate": "15.39",
+            "active": "298",
+            "recovered_rate": "82.64",
+            "recovered": "1,600",
+            "rank": 106
+        },
+        {
+            "country": "South Sudan",
+            "death_rate": "1.90",
+            "death": "47",
+            "active_rate": "50.53",
+            "active": "1,248",
+            "recovered_rate": "47.57",
+            "recovered": "1,175",
+            "rank": 105
+        },
+        {
+            "country": "Argentina",
+            "death_rate": "1.88",
+            "death": "4,634",
+            "active_rate": "54.21",
+            "active": "133,623",
+            "recovered_rate": "43.91",
+            "recovered": "108,242",
+            "rank": 104
+        },
+        {
+            "country": "Gambia",
+            "death_rate": "1.86",
+            "death": "23",
+            "active_rate": "80.24",
+            "active": "991",
+            "recovered_rate": "17.89",
+            "recovered": "221",
+            "rank": 103
+        },
+        {
+            "country": "South Africa",
+            "death_rate": "1.86",
+            "death": "10,408",
+            "active_rate": "24.64",
+            "active": "137,977",
+            "recovered_rate": "73.50",
+            "recovered": "411,474",
+            "rank": 102
+        },
+        {
+            "country": "Diamond Princess",
+            "death_rate": "1.83",
+            "death": "13",
+            "active_rate": "6.74",
+            "active": "48",
+            "recovered_rate": "91.43",
+            "recovered": "651",
+            "rank": 101
+        },
+        {
+            "country": "Swaziland",
+            "death_rate": "1.79",
+            "death": "58",
+            "active_rate": "48.55",
+            "active": "1,571",
+            "recovered_rate": "49.66",
+            "recovered": "1,607",
+            "rank": 100
+        },
+        {
+            "country": "Ethiopia",
+            "death_rate": "1.78",
+            "death": "420",
+            "active_rate": "54.09",
+            "active": "12,760",
+            "recovered_rate": "44.13",
+            "recovered": "10,411",
+            "rank": 99
+        },
+        {
+            "country": "Montenegro",
+            "death_rate": "1.77",
+            "death": "64",
+            "active_rate": "30.46",
+            "active": "1,102",
+            "recovered_rate": "67.77",
+            "recovered": "2,452",
+            "rank": 98
+        },
+        {
+            "country": "Vietnam",
+            "death_rate": "1.77",
+            "death": "15",
+            "active_rate": "51.12",
+            "active": "433",
+            "recovered_rate": "47.11",
+            "recovered": "399",
+            "rank": 97
+        },
+        {
+            "country": "Comoros",
+            "death_rate": "1.75",
+            "death": "7",
+            "active_rate": "5.76",
+            "active": "23",
+            "recovered_rate": "92.48",
+            "recovered": "369",
+            "rank": 96
+        },
+        {
+            "country": "Thailand",
+            "death_rate": "1.73",
+            "death": "58",
+            "active_rate": "3.97",
+            "active": "133",
+            "recovered_rate": "94.30",
+            "recovered": "3,160",
+            "rank": 95
+        },
+        {
+            "country": "Equatorial Guinea",
+            "death_rate": "1.72",
+            "death": "83",
+            "active_rate": "53.02",
+            "active": "2,556",
+            "recovered_rate": "45.26",
+            "recovered": "2,182",
+            "rank": 94
+        },
+        {
+            "country": "Sao Tome and Principe",
+            "death_rate": "1.71",
+            "death": "15",
+            "active_rate": "7.18",
+            "active": "63",
+            "recovered_rate": "91.12",
+            "recovered": "800",
+            "rank": 93
+        },
+        {
+            "country": "Luxembourg",
+            "death_rate": "1.68",
+            "death": "121",
+            "active_rate": "12.82",
+            "active": "925",
+            "recovered_rate": "85.50",
+            "recovered": "6,170",
+            "rank": 92
+        },
+        {
+            "country": "Philippines",
+            "death_rate": "1.68",
+            "death": "2,294",
+            "active_rate": "48.44",
+            "active": "66,185",
+            "recovered_rate": "49.88",
+            "recovered": "68,159",
+            "rank": 91
+        },
+        {
+            "country": "Russia",
+            "death_rate": "1.68",
+            "death": "15,001",
+            "active_rate": "20.27",
+            "active": "180,972",
+            "recovered_rate": "78.05",
+            "recovered": "696,681",
+            "rank": 90
+        },
+        {
+            "country": "Bahamas",
+            "death_rate": "1.67",
+            "death": "15",
+            "active_rate": "86.75",
+            "active": "779",
+            "recovered_rate": "11.58",
+            "recovered": "104",
+            "rank": 89
+        },
+        {
+            "country": "Myanmar",
+            "death_rate": "1.67",
+            "death": "6",
+            "active_rate": "11.67",
+            "active": "42",
+            "recovered_rate": "86.67",
+            "recovered": "312",
+            "rank": 88
+        },
+        {
+            "country": "Dominican Republic",
+            "death_rate": "1.65",
+            "death": "1,328",
+            "active_rate": "42.56",
+            "active": "34,261",
+            "recovered_rate": "55.79",
+            "recovered": "44,910",
+            "rank": 87
+        },
+        {
+            "country": "Congo",
+            "death_rate": "1.58",
+            "death": "58",
+            "active_rate": "55.05",
+            "active": "2,017",
+            "recovered_rate": "43.37",
+            "recovered": "1,589",
+            "rank": 86
+        },
+        {
+            "country": "Kenya",
+            "death_rate": "1.57",
+            "death": "423",
+            "active_rate": "48.31",
+            "active": "13,010",
+            "recovered_rate": "50.12",
+            "recovered": "13,495",
+            "rank": 85
+        },
+        {
+            "country": "Cyprus",
+            "death_rate": "1.52",
+            "death": "19",
+            "active_rate": "28.99",
+            "active": "363",
+            "recovered_rate": "69.49",
+            "recovered": "870",
+            "rank": 84
+        },
+        {
+            "country": "Morocco",
+            "death_rate": "1.51",
+            "death": "516",
+            "active_rate": "26.49",
+            "active": "9,023",
+            "recovered_rate": "72.00",
+            "recovered": "24,524",
+            "rank": 83
+        },
+        {
+            "country": "Australia",
+            "death_rate": "1.47",
+            "death": "314",
+            "active_rate": "43.06",
+            "active": "9,217",
+            "recovered_rate": "55.48",
+            "recovered": "11,876",
+            "rank": 82
+        },
+        {
+            "country": "Azerbaijan",
+            "death_rate": "1.46",
+            "death": "492",
+            "active_rate": "7.47",
+            "active": "2,513",
+            "recovered_rate": "91.07",
+            "recovered": "30,642",
+            "rank": 81
+        },
+        {
+            "country": "Taiwan",
+            "death_rate": "1.46",
+            "death": "7",
+            "active_rate": "6.25",
+            "active": "30",
+            "recovered_rate": "92.29",
+            "recovered": "443",
+            "rank": 80
+        },
+        {
+            "country": "Guinea-Bissau",
+            "death_rate": "1.41",
+            "death": "29",
+            "active_rate": "52.58",
+            "active": "1,079",
+            "recovered_rate": "46.00",
+            "recovered": "944",
+            "rank": 79
+        },
+        {
+            "country": "New Zealand",
+            "death_rate": "1.40",
+            "death": "22",
+            "active_rate": "1.34",
+            "active": "21",
+            "recovered_rate": "97.26",
+            "recovered": "1,526",
+            "rank": 78
+        },
+        {
+            "country": "Papua New Guinea",
+            "death_rate": "1.40",
+            "death": "3",
+            "active_rate": "73.83",
+            "active": "158",
+            "recovered_rate": "24.77",
+            "recovered": "53",
+            "rank": 77
+        },
+        {
+            "country": "Jamaica",
+            "death_rate": "1.37",
+            "death": "14",
+            "active_rate": "25.81",
+            "active": "264",
+            "recovered_rate": "72.83",
+            "recovered": "745",
+            "rank": 76
+        },
+        {
+            "country": "Malaysia",
+            "death_rate": "1.37",
+            "death": "125",
+            "active_rate": "1.83",
+            "active": "166",
+            "recovered_rate": "96.80",
+            "recovered": "8,803",
+            "rank": 75
+        },
+        {
+            "country": "Georgia",
+            "death_rate": "1.36",
+            "death": "17",
+            "active_rate": "17.84",
+            "active": "223",
+            "recovered_rate": "80.80",
+            "recovered": "1,010",
+            "rank": 74
+        },
+        {
+            "country": "Hong Kong",
+            "death_rate": "1.33",
+            "death": "55",
+            "active_rate": "28.39",
+            "active": "1,178",
+            "recovered_rate": "70.28",
+            "recovered": "2,916",
+            "rank": 73
+        },
+        {
+            "country": "Bangladesh",
+            "death_rate": "1.32",
+            "death": "3,438",
+            "active_rate": "40.93",
+            "active": "106,632",
+            "recovered_rate": "57.75",
+            "recovered": "150,437",
+            "rank": 72
+        },
+        {
+            "country": "Belize",
+            "death_rate": "1.30",
+            "death": "2",
+            "active_rate": "77.92",
+            "active": "120",
+            "recovered_rate": "20.78",
+            "recovered": "32",
+            "rank": 71
+        },
+        {
+            "country": "Central African Republic",
+            "death_rate": "1.29",
+            "death": "60",
+            "active_rate": "61.62",
+            "active": "2,860",
+            "recovered_rate": "37.08",
+            "recovered": "1,721",
+            "rank": 70
+        },
+        {
+            "country": "Mayotte",
+            "death_rate": "1.27",
+            "death": "39",
+            "active_rate": "6.32",
+            "active": "194",
+            "recovered_rate": "92.41",
+            "recovered": "2,835",
+            "rank": 69
+        },
+        {
+            "country": "Suriname",
+            "death_rate": "1.21",
+            "death": "29",
+            "active_rate": "30.41",
+            "active": "727",
+            "recovered_rate": "68.38",
+            "recovered": "1,635",
+            "rank": 68
+        },
+        {
+            "country": "Slovakia",
+            "death_rate": "1.19",
+            "death": "31",
+            "active_rate": "27.01",
+            "active": "702",
+            "recovered_rate": "71.80",
+            "recovered": "1,866",
+            "rank": 67
+        },
+        {
+            "country": "Lebanon",
+            "death_rate": "1.17",
+            "death": "80",
+            "active_rate": "65.21",
+            "active": "4,442",
+            "recovered_rate": "33.62",
+            "recovered": "2,290",
+            "rank": 66
+        },
+        {
+            "country": "Madagascar",
+            "death_rate": "1.14",
+            "death": "151",
+            "active_rate": "15.45",
+            "active": "2,040",
+            "recovered_rate": "83.40",
+            "recovered": "11,011",
+            "rank": 65
+        },
+        {
+            "country": "Cabo Verde",
+            "death_rate": "1.12",
+            "death": "32",
+            "active_rate": "25.89",
+            "active": "740",
+            "recovered_rate": "72.99",
+            "recovered": "2,086",
+            "rank": 64
+        },
+        {
+            "country": "Liechtenstein",
+            "death_rate": "1.12",
+            "death": "1",
+            "active_rate": "3.37",
+            "active": "3",
+            "recovered_rate": "95.51",
+            "recovered": "85",
+            "rank": 63
+        },
+        {
+            "country": "Djibouti",
+            "death_rate": "1.10",
+            "death": "59",
+            "active_rate": "3.14",
+            "active": "168",
+            "recovered_rate": "95.75",
+            "recovered": "5,120",
+            "rank": 62
+        },
+        {
+            "country": "Saudi Arabia",
+            "death_rate": "1.10",
+            "death": "3,199",
+            "active_rate": "11.47",
+            "active": "33,270",
+            "recovered_rate": "87.42",
+            "recovered": "253,478",
+            "rank": 61
+        },
+        {
+            "country": "Paraguay",
+            "death_rate": "1.09",
+            "death": "75",
+            "active_rate": "23.31",
+            "active": "1,610",
+            "recovered_rate": "75.60",
+            "recovered": "5,222",
+            "rank": 60
+        },
+        {
+            "country": "Kazakhstan",
+            "death_rate": "1.06",
+            "death": "1,058",
+            "active_rate": "26.01",
+            "active": "25,861",
+            "recovered_rate": "72.93",
+            "recovered": "72,523",
+            "rank": 59
+        },
+        {
+            "country": "Costa Rica",
+            "death_rate": "1.01",
+            "death": "235",
+            "active_rate": "65.79",
+            "active": "15,321",
+            "recovered_rate": "33.20",
+            "recovered": "7,730",
+            "rank": 58
+        },
+        {
+            "country": "Turks and Caicos Islands",
+            "death_rate": "0.93",
+            "death": "2",
+            "active_rate": "81.02",
+            "active": "175",
+            "recovered_rate": "18.06",
+            "recovered": "39",
+            "rank": 57
+        },
+        {
+            "country": "Jordan",
+            "death_rate": "0.87",
+            "death": "11",
+            "active_rate": "5.52",
+            "active": "70",
+            "recovered_rate": "93.61",
+            "recovered": "1,187",
+            "rank": 56
+        },
+        {
+            "country": "Venezuela",
+            "death_rate": "0.86",
+            "death": "223",
+            "active_rate": "47.38",
+            "active": "12,226",
+            "recovered_rate": "51.76",
+            "recovered": "13,356",
+            "rank": 55
+        },
+        {
+            "country": "Belarus",
+            "death_rate": "0.85",
+            "death": "589",
+            "active_rate": "4.88",
+            "active": "3,367",
+            "recovered_rate": "94.26",
+            "recovered": "64,991",
+            "rank": 54
+        },
+        {
+            "country": "Malta",
+            "death_rate": "0.81",
+            "death": "9",
+            "active_rate": "37.32",
+            "active": "415",
+            "recovered_rate": "61.87",
+            "recovered": "688",
+            "rank": 53
+        },
+        {
+            "country": "Tajikistan",
+            "death_rate": "0.79",
+            "death": "62",
+            "active_rate": "14.71",
+            "active": "1,151",
+            "recovered_rate": "84.50",
+            "recovered": "6,614",
+            "rank": 52
+        },
+        {
+            "country": "Israel",
+            "death_rate": "0.73",
+            "death": "612",
+            "active_rate": "29.37",
+            "active": "24,783",
+            "recovered_rate": "69.90",
+            "recovered": "58,986",
+            "rank": 51
+        },
+        {
+            "country": "Réunion",
+            "death_rate": "0.73",
+            "death": "5",
+            "active_rate": "7.42",
+            "active": "51",
+            "recovered_rate": "91.85",
+            "recovered": "631",
+            "rank": 50
+        },
+        {
+            "country": "Palestine",
+            "death_rate": "0.69",
+            "death": "100",
+            "active_rate": "43.87",
+            "active": "6,365",
+            "recovered_rate": "55.44",
+            "recovered": "8,045",
+            "rank": 49
+        },
+        {
+            "country": "Uganda",
+            "death_rate": "0.69",
+            "death": "9",
+            "active_rate": "11.64",
+            "active": "151",
+            "recovered_rate": "87.66",
+            "recovered": "1,137",
+            "rank": 48
+        },
+        {
+            "country": "Kuwait",
+            "death_rate": "0.67",
+            "death": "482",
+            "active_rate": "10.90",
+            "active": "7,890",
+            "recovered_rate": "88.44",
+            "recovered": "64,028",
+            "rank": 47
+        },
+        {
+            "country": "Mozambique",
+            "death_rate": "0.66",
+            "death": "16",
+            "active_rate": "63.67",
+            "active": "1,535",
+            "recovered_rate": "35.67",
+            "recovered": "860",
+            "rank": 46
+        },
+        {
+            "country": "Gabon",
+            "death_rate": "0.64",
+            "death": "51",
+            "active_rate": "27.36",
+            "active": "2,168",
+            "recovered_rate": "71.99",
+            "recovered": "5,704",
+            "rank": 45
+        },
+        {
+            "country": "Oman",
+            "death_rate": "0.64",
+            "death": "521",
+            "active_rate": "6.29",
+            "active": "5,142",
+            "recovered_rate": "93.08",
+            "recovered": "76,124",
+            "rank": 44
+        },
+        {
+            "country": "Uzbekistan",
+            "death_rate": "0.64",
+            "death": "198",
+            "active_rate": "26.75",
+            "active": "8,311",
+            "recovered_rate": "72.61",
+            "recovered": "22,559",
+            "rank": 43
+        },
+        {
+            "country": "Côte d'Ivoire",
+            "death_rate": "0.63",
+            "death": "105",
+            "active_rate": "22.04",
+            "active": "3,684",
+            "recovered_rate": "77.33",
+            "recovered": "12,926",
+            "rank": 42
+        },
+        {
+            "country": "Guinea",
+            "death_rate": "0.63",
+            "death": "50",
+            "active_rate": "12.38",
+            "active": "982",
+            "recovered_rate": "86.99",
+            "recovered": "6,898",
+            "rank": 41
+        },
+        {
+            "country": "Namibia",
+            "death_rate": "0.61",
+            "death": "19",
+            "active_rate": "76.33",
+            "active": "2,367",
+            "recovered_rate": "23.06",
+            "recovered": "715",
+            "rank": 40
+        },
+        {
+            "country": "French Guiana",
+            "death_rate": "0.58",
+            "death": "48",
+            "active_rate": "8.69",
+            "active": "718",
+            "recovered_rate": "90.73",
+            "recovered": "7,501",
+            "rank": 39
+        },
+        {
+            "country": "UAE",
+            "death_rate": "0.57",
+            "death": "357",
+            "active_rate": "8.90",
+            "active": "5,581",
+            "recovered_rate": "90.53",
+            "recovered": "56,766",
+            "rank": 38
+        },
+        {
+            "country": "Aruba",
+            "death_rate": "0.53",
+            "death": "3",
+            "active_rate": "79.22",
+            "active": "446",
+            "recovered_rate": "20.25",
+            "recovered": "114",
+            "rank": 37
+        },
+        {
+            "country": "Ghana",
+            "death_rate": "0.52",
+            "death": "215",
+            "active_rate": "5.99",
+            "active": "2,458",
+            "recovered_rate": "93.48",
+            "recovered": "38,330",
+            "rank": 36
+        },
+        {
+            "country": "Iceland",
+            "death_rate": "0.51",
+            "death": "10",
+            "active_rate": "5.81",
+            "active": "114",
+            "recovered_rate": "93.68",
+            "recovered": "1,838",
+            "rank": 35
+        },
+        {
+            "country": "Cayman Islands",
+            "death_rate": "0.49",
+            "death": "1",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "99.51",
+            "recovered": "202",
+            "rank": 34
+        },
+        {
+            "country": "Sri Lanka",
+            "death_rate": "0.38",
+            "death": "11",
+            "active_rate": "9.27",
+            "active": "266",
+            "recovered_rate": "90.35",
+            "recovered": "2,593",
+            "rank": 33
+        },
+        {
+            "country": "Bahrain",
+            "death_rate": "0.37",
+            "death": "163",
+            "active_rate": "6.55",
+            "active": "2,881",
+            "recovered_rate": "93.08",
+            "recovered": "40,967",
+            "rank": 32
+        },
+        {
+            "country": "Maldives",
+            "death_rate": "0.37",
+            "death": "19",
+            "active_rate": "44.66",
+            "active": "2,303",
+            "recovered_rate": "54.97",
+            "recovered": "2,835",
+            "rank": 31
+        },
+        {
+            "country": "Nepal",
+            "death_rate": "0.34",
+            "death": "79",
+            "active_rate": "28.91",
+            "active": "6,738",
+            "recovered_rate": "70.76",
+            "recovered": "16,493",
+            "rank": 30
+        },
+        {
+            "country": "Rwanda",
+            "death_rate": "0.33",
+            "death": "7",
+            "active_rate": "36.78",
+            "active": "787",
+            "recovered_rate": "62.90",
+            "recovered": "1,346",
+            "rank": 29
+        },
+        {
+            "country": "Botswana",
+            "death_rate": "0.25",
+            "death": "2",
+            "active_rate": "91.92",
+            "active": "739",
+            "recovered_rate": "7.84",
+            "recovered": "63",
+            "rank": 28
+        },
+        {
+            "country": "Burundi",
+            "death_rate": "0.25",
+            "death": "1",
+            "active_rate": "22.55",
+            "active": "92",
+            "recovered_rate": "77.21",
+            "recovered": "315",
+            "rank": 27
+        },
+        {
+            "country": "Qatar",
+            "death_rate": "0.17",
+            "death": "188",
+            "active_rate": "2.72",
+            "active": "3,081",
+            "recovered_rate": "97.11",
+            "recovered": "109,993",
+            "rank": 26
+        },
+        {
+            "country": "Singapore",
+            "death_rate": "0.05",
+            "death": "27",
+            "active_rate": "10.23",
+            "active": "5,656",
+            "recovered_rate": "89.72",
+            "recovered": "49,609",
+            "rank": 25
+        },
+        {
+            "country": "Anguilla",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "100.00",
+            "recovered": "3",
+            "rank": 24
+        },
+        {
+            "country": "Bhutan",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "12.73",
+            "active": "14",
+            "recovered_rate": "87.27",
+            "recovered": "96",
+            "rank": 23
+        },
+        {
+            "country": "Cambodia",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "12.75",
+            "active": "32",
+            "recovered_rate": "87.25",
+            "recovered": "219",
+            "rank": 22
+        },
+        {
+            "country": "Caribbean Netherlands",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "46.15",
+            "active": "6",
+            "recovered_rate": "53.85",
+            "recovered": "7",
+            "rank": 21
+        },
+        {
+            "country": "Dominica",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "100.00",
+            "recovered": "18",
+            "rank": 20
+        },
+        {
+            "country": "Eritrea",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "14.04",
+            "active": "40",
+            "recovered_rate": "85.96",
+            "recovered": "245",
+            "rank": 19
+        },
+        {
+            "country": "Falkland Islands (Malvinas)",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "100.00",
+            "recovered": "13",
+            "rank": 18
+        },
+        {
+            "country": "Faroe Islands",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "29.74",
+            "active": "91",
+            "recovered_rate": "70.26",
+            "recovered": "215",
+            "rank": 17
+        },
+        {
+            "country": "French Polynesia",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "10.14",
+            "active": "7",
+            "recovered_rate": "89.86",
+            "recovered": "62",
+            "rank": 16
+        },
+        {
+            "country": "Gibraltar",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "7.46",
+            "active": "15",
+            "recovered_rate": "92.54",
+            "recovered": "186",
+            "rank": 15
+        },
+        {
+            "country": "Greenland",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "100.00",
+            "recovered": "14",
+            "rank": 14
+        },
+        {
+            "country": "Grenada",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "4.17",
+            "active": "1",
+            "recovered_rate": "95.83",
+            "recovered": "23",
+            "rank": 13
+        },
+        {
+            "country": "Holy See (Vatican City State)",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "100.00",
+            "recovered": "12",
+            "rank": 12
+        },
+        {
+            "country": "Lao People's Democratic Republic",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "5.00",
+            "active": "1",
+            "recovered_rate": "95.00",
+            "recovered": "19",
+            "rank": 11
+        },
+        {
+            "country": "Macao",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "100.00",
+            "recovered": "46",
+            "rank": 10
+        },
+        {
+            "country": "Mongolia",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "10.24",
+            "active": "30",
+            "recovered_rate": "89.76",
+            "recovered": "263",
+            "rank": 9
+        },
+        {
+            "country": "New Caledonia",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "4.35",
+            "active": "1",
+            "recovered_rate": "95.65",
+            "recovered": "22",
+            "rank": 8
+        },
+        {
+            "country": "Saint Kitts and Nevis",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "0.00",
+            "active": "0",
+            "recovered_rate": "100.00",
+            "recovered": "17",
+            "rank": 7
+        },
+        {
+            "country": "Saint Lucia",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "4.00",
+            "active": "1",
+            "recovered_rate": "96.00",
+            "recovered": "24",
+            "rank": 6
+        },
+        {
+            "country": "Saint Pierre Miquelon",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "75.00",
+            "active": "3",
+            "recovered_rate": "25.00",
+            "recovered": "1",
+            "rank": 5
+        },
+        {
+            "country": "Saint Vincent and the Grenadines",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "8.77",
+            "active": "5",
+            "recovered_rate": "91.23",
+            "recovered": "52",
+            "rank": 4
+        },
+        {
+            "country": "Seychelles",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "0.79",
+            "active": "1",
+            "recovered_rate": "99.21",
+            "recovered": "125",
+            "rank": 3
+        },
+        {
+            "country": "St. Barth",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "53.85",
+            "active": "7",
+            "recovered_rate": "46.15",
+            "recovered": "6",
+            "rank": 2
+        },
+        {
+            "country": "Timor-Leste",
+            "death_rate": "0.00",
+            "death": "0",
+            "active_rate": "4.00",
+            "active": "1",
+            "recovered_rate": "96.00",
+            "recovered": "24",
+            "rank": 1
+        }
+    ],
+    "url": "https://disease.sh/v3/covid-19/countries"
+}
