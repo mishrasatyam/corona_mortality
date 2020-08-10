@@ -4,3 +4,6 @@
 yarn-error.log
 /cypress/screenshots/
 /__sapper__/
+india_data.json
+state_data.json
+world_data.json

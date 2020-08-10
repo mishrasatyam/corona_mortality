@@ -1,33 +1,14 @@
 <script context="module">
-	import {percentage,num_format} from '../utils'
 	export async function preload(page, session) {
-        const {state} = page.params
-		let mortality_data = [];
-		const url = 'https://api.covid19india.org/state_district_wise.json';
-		const res = await this.fetch(url);
-        const data = await res.json();
-        const state_data = data[state];
-        if(state_data==undefined){
+        const {state} = page.params;
+        const res = await this.fetch('india/state_data');
+        let {data,url} = await res.json();
+        if(data[state]==undefined){
             return this.redirect(302,'/india')
         }
-        const district_data = state_data.districtData;
-        Object.entries(district_data).forEach(el => {
-            let district = el[0];
-            let value = el[1];
-            if(district !='Unknown' && district !='Other State'){
-                mortality_data.push({district,death_rate:percentage(value.deceased,value.confirmed),death:num_format(value.deceased)
-                ,active_rate:percentage(value.active,value.confirmed),active:num_format(value.active)
-                ,recovered_rate:percentage(value.recovered,value.confirmed),recovered:num_format(value.recovered)
-                })
-            }
-             
-        })
-        let i = mortality_data.length;
-		mortality_data.sort((a,b)=>{return b.death_rate-a.death_rate})
-        mortality_data.forEach(el => { el.rank=i;i-=1; })
-        return {data:mortality_data,url,state}
+		return {data:data[state],url,state}
 	}  
-  </script>
+</script>
   <script>
 	export let data;
     export let url;

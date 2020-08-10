@@ -1,22 +1,10 @@
 <script context="module">
-	import {percentage,num_format} from '../utils'
 	export async function preload(page, session) {
-		let mortality_data = [];
-		const url = 'https://api.covid19india.org/data.json';
-		const res = await this.fetch(url);
-		let data = (await res.json()).statewise;
-		data = data.filter(el => !(el.statecode=='UN' || el.statecode=='TT'))
-		data = data.filter(el => !(el.statecode=='UN' || el.statecode=='TT'))
-		let i = data.length
-		data.forEach(el => mortality_data.push({state:el.state,death_rate:percentage(el.deaths,el.confirmed),death:num_format(el.deaths)
-			,active_rate:percentage(el.active,el.confirmed),active:num_format(el.active)
-			,recovered_rate:percentage(el.recovered,el.confirmed),recovered:num_format(el.recovered)
-		}))
-		mortality_data.sort((a,b) => {return b.death_rate-a.death_rate})
-		mortality_data.forEach(el =>{el.rank=i;i-=1})
-		return {data:mortality_data,url}
+		const res = await this.fetch('india/india_data');
+		const data = await res.json();
+		return data
 	}  
-  </script>
+</script>
 <script>
 	export let data;
 	export let url;
