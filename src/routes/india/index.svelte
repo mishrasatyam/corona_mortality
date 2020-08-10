@@ -42,7 +42,7 @@
 	})
 </script>  
 	<h3 style="text-align:center;text-decoration: underline;">Corona data (India)</h3>
-	<h6 style="text-align:center" class="link" on:click={()=>goto('/')}>Go back</h6>
+	<h6 style="text-align:center" class="link" on:click={()=>goto('/')}>World</h6>
 	<div class="form-group">
 		<label for="search">Search by state</label>
 		<input type="search" id="search" class="form-control" bind:value={search_text} on:keyup={search}>
@@ -64,7 +64,7 @@
 			{#each table_data as el}
 			<tr>
 				<td>{el.rank}</td>
-				<td>{el.state}</td>
+				<td class="link" on:click={()=>goto('/india/'+el.state)}>{el.state}</td>
 				{#each ['death','active','recovered'] as param}
 				<td>{el[param+'_rate']} ({el[param]})</td>
 				{/each}

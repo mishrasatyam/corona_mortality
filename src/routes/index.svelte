@@ -50,7 +50,7 @@
 	  <tr>
 		  <th rowspan="2">Rank</th>
 		  <th rowspan="2">Country</th>
-		  <th colspan="3">Rate(%)</th>
+		  <th colspan="3" style="text-align: center;">Rate(%)</th>
 	  </tr>
 	  <tr>
 		  <th>Deaths</th>
