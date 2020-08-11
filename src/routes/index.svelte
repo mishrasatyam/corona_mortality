@@ -1,17 +1,26 @@
 <script context="module">
+	import {percentage,num_format} from './utils'
 	export async function preload(page, session) {
-		const res = await this.fetch('world_data');
+		let mortality_data = [];
+		const url = 'https://disease.sh/v3/covid-19/countries';
+		const res = await this.fetch(url);
 		const data = await res.json();
-		return data
+		let i = data.length;
+		data.forEach(el => mortality_data.push({country:el.country,death_rate:percentage(el.deaths,el.cases),death:num_format(el.deaths)
+			,active_rate:percentage(el.active,el.cases),active:num_format(el.active)
+			,recovered_rate:percentage(el.recovered,el.cases),recovered:num_format(el.recovered)
+		}))
+		mortality_data.sort((a,b)=>{return b.death_rate-a.death_rate})
+		mortality_data.forEach(el => { el.rank=i;i-=1; })
+		return {data:mortality_data,url}
 	}  
-</script>
+  </script>
 <script>
 	export let data;
 	export let url;
 	import Footer from '../components/Footer.svelte';
 	import { goto } from '@sapper/app';
 	import { onMount } from 'svelte';
-
 	let table_data = data;
 	let search_text;
 	function search(){
@@ -65,4 +74,3 @@
 	  </tbody>
   </table>
   <Footer link={url}/>
-  
