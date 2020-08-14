@@ -1,14 +1,14 @@
 <script context="module">
 	export async function preload(page, session) {
 		const {state} = page.params
-		const res = await this.fetch('india/state_data');
+		const body = JSON.stringify({state})
+		const headers = {'Accept': 'application/json','Content-Type': 'application/json'}
+		const res = await this.fetch('india/state_data',{method:'post',headers,body});
 		const all_state_data = await res.json();
-		let {data,url} = all_state_data;
-		let state_data = data[state];
-		if(!state_data){
+		if(all_state_data.status==400){
 			return this.redirect(302,'/india/')
-		} 
-		return {data:state_data,url,state};
+		}
+		return all_state_data;
 	}   </script>
   <script>
 	export let data;
