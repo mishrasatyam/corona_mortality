@@ -1,5 +1,6 @@
 dependencies:
   compression: 1.7.4
+  node-fetch: 2.6.1
   polka: 1.0.0-next.11
   sirv: 1.0.10
 devDependencies:
@@ -1535,6 +1536,12 @@ packages:
     dev: true
     resolution:
       integrity: sha512-rmTZ9kz+f3rCvK2TD1Ue/oZlns7OGoIWP4fc3llxxRXlOkHKoWPPWJOfFYpITabSow43QJbRIoHQXtt10VldyQ==
+  /node-fetch/2.6.1:
+    dev: false
+    engines:
+      node: 4.x || >=6.0.0
+    resolution:
+      integrity: sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
   /node-releases/1.1.67:
     dev: true
     resolution:
@@ -1919,6 +1926,7 @@ specifiers:
   '@rollup/plugin-replace': ^2.2.0
   '@rollup/plugin-url': ^5.0.0
   compression: ^1.7.1
+  node-fetch: ^2.6.1
   polka: next
   rollup: ^2.3.4
   rollup-plugin-svelte: ^7.0.0
