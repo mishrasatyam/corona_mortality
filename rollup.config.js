@@ -1,11 +1,14 @@
+import path from 'path';
 import resolve from '@rollup/plugin-node-resolve';
 import replace from '@rollup/plugin-replace';
 import commonjs from '@rollup/plugin-commonjs';
+import url from '@rollup/plugin-url';
 import svelte from 'rollup-plugin-svelte';
 import babel from '@rollup/plugin-babel';
 import { terser } from 'rollup-plugin-terser';
 import config from 'sapper/config/rollup.js';
 import pkg from './package.json';
+import json from '@rollup/plugin-json'
 
 const mode = process.env.NODE_ENV;
 const dev = mode === 'development';
@@ -26,16 +29,21 @@ export default {
 				'process.env.NODE_ENV': JSON.stringify(mode)
 			}),
 			svelte({
-				dev,
-				hydratable: true,
-				emitCss: true
+				compilerOptions: {
+					dev,
+					hydratable: true
+				}
+			}),
+			url({
+				sourceDir: path.resolve(__dirname, 'src/node_modules/images'),
+				publicPath: '/client/'
 			}),
 			resolve({
 				browser: true,
 				dedupe: ['svelte']
 			}),
 			commonjs(),
-
+			json(),
 			legacy && babel({
 				extensions: ['.js', '.mjs', '.html', '.svelte'],
 				babelHelpers: 'runtime',
@@ -71,14 +79,23 @@ export default {
 				'process.env.NODE_ENV': JSON.stringify(mode)
 			}),
 			svelte({
-				generate: 'ssr',
-				hydratable: true,
-				dev
+				compilerOptions: {
+					dev,
+					generate: 'ssr',
+					hydratable: true
+				},
+				emitCss: false
+			}),
+			url({
+				sourceDir: path.resolve(__dirname, 'src/node_modules/images'),
+				publicPath: '/client/',
+				emitFiles: false // already emitted by client build
 			}),
 			resolve({
 				dedupe: ['svelte']
 			}),
-			commonjs()
+			commonjs(),
+			json()
 		],
 		external: Object.keys(pkg.dependencies).concat(require('module').builtinModules),
 

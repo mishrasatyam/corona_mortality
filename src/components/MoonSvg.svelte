@@ -1,3 +1,6 @@
+<svelte:head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Halfmoon/1.1.1/js/halfmoon.min.js"></script>
+</svelte:head>
 <script>
     function toggleDemo() {
       halfmoon.toggleDarkMode();

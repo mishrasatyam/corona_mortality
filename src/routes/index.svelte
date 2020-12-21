@@ -1,14 +1,5 @@
-<script context="module">
-	export async function preload(page, session) {
-		const res = await this.fetch('world_data');
-		const data = await res.json();
-		return data;
-	}  
-</script>
 <script>
-	// import {data} from '../../'
-	export let data;
-	export let url;
+	import {data,url} from '../json_data/world_data.json'
 	import Footer from '../components/Footer.svelte';
 	import Heading from '../components/Heading.svelte';
 	import { goto } from '@sapper/app';
@@ -18,7 +9,7 @@
 		table_data = data.filter(el => el.country.toLowerCase().startsWith(search_text.toLowerCase()))
 	}
 </script>  
-  <Heading text={"World"}/>  
+  <Heading text="World"/>  
   <h6 style="text-align:center" class="link" on:click={()=>goto('/india')}>India</h6>
   <div class="form-group">
 	  <label for="search">Search by country</label>

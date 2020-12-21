@@ -1,19 +1,13 @@
 <script context="module">
 	export async function preload(page, session) {
 		const {state} = page.params
-		const body = JSON.stringify({state})
-		const headers = {'Accept': 'application/json','Content-Type': 'application/json'}
-		const res = await this.fetch('india/state_data',{method:'post',headers,body});
-		const all_state_data = await res.json();
-		if(all_state_data.status==400){
-			return this.redirect(302,'/india/')
-		}
-		return all_state_data;
-	}   </script>
+		return {state}		
+	}   
+</script>
   <script>
-	export let data;
-    export let url;
-    export let state;
+	export let state;
+	import {data as state_data, url} from '../../json_data/state_data.json'
+	const data = state_data[state]
 	import Footer from '../../components/Footer.svelte';
 	import Heading from '../../components/Heading.svelte';
 	import { goto } from '@sapper/app';

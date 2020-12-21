@@ -1,13 +1,5 @@
-<script context="module">
-	export async function preload(page, session) {
-		const res = await this.fetch('india/india_data');
-		const data = await res.json();
-		return data;
-	}  
-</script>
 <script>
-	export let data;
-	export let url;
+	import {data,url} from '../../json_data/india_data.json'
 	import Footer from '../../components/Footer.svelte';
 	import Heading from '../../components/Heading.svelte';
 	import { goto } from '@sapper/app';
