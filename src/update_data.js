@@ -22,7 +22,7 @@ async function world_data(){
 	}))
 	mortality_data.sort((a,b)=>{return b.death_rate-a.death_rate})
 	mortality_data.forEach(el => { el.rank=i;i-=1; })
-	await fs.promises.writeFile('world_data.json',JSON.stringify({data:mortality_data,url},null,4))
+	await fs.promises.writeFile('json_data/world_data.json',JSON.stringify({data:mortality_data,url},null,4))
 }
 
 async function india_data(){
@@ -39,7 +39,7 @@ async function india_data(){
 	}))
 	mortality_data.sort((a,b) => {return b.death_rate-a.death_rate})
 	mortality_data.forEach(el =>{el.rank=i;i-=1})
-	await fs.promises.writeFile('india_data.json',JSON.stringify({data:mortality_data,url},null,4))
+	await fs.promises.writeFile('json_data/india_data.json',JSON.stringify({data:mortality_data,url},null,4))
 
 }
 async function state_data(){
@@ -69,7 +69,7 @@ async function state_data(){
 			final_state_data[state] = mortality_data
 		}	
 	})
-	await fs.promises.writeFile('state_data.json',JSON.stringify({data:final_state_data,url},null,4))
+	await fs.promises.writeFile('json_data/state_data.json',JSON.stringify({data:final_state_data,url},null,4))
 }
 
 async function update(){

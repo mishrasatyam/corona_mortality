@@ -6,6 +6,7 @@
 	}  
 </script>
 <script>
+	// import {data} from '../../'
 	export let data;
 	export let url;
 	import Footer from '../components/Footer.svelte';
