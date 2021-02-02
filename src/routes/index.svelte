@@ -34,11 +34,13 @@
 			  <td>{el.rank}</td>
 			  {#if el.country=='India'}
 			  <td class="link" on:click={()=>goto('/india')}>
-				  {el.country}
-				  <img src='/flags/{el.country}.png' alt='{el.country}' style="height:10%;margin-bottom: -1.5%;">
+				  <span>{el.country}</span>
+				  <!-- <img src='/flags/{el.country}.png' alt='{el.country}' style="height:10px"> -->
 				</td>
 			  {:else}
-			  <td>{el.country} <img src='/flags/{el.country}.png' alt='{el.country}' style="height:10%;margin-bottom: -1.5%;"></td>
+			  <td><span>{el.country}</span> 
+				<!-- <img src='/flags/{el.country}.png' alt='{el.country}' style="height:10px"> -->
+			</td>
 			  {/if}
 			  {#each ['death','active','recovered'] as param}
 			  <td>{el[param+'_rate']} ({el[param]})</td>
