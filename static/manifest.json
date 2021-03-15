@@ -1,8 +1,0 @@
-{
-	"background_color": "#ffffff",
-	"theme_color": "#333333",
-	"name": "Corona mortality",
-	"short_name": "Corona mortality",
-	"display": "minimal-ui",
-	"start_url": "/"	
-}

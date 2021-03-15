@@ -1,11 +1,11 @@
-const fs = require('fs');
-const fetch = require('node-fetch')
+import fetch from 'node-fetch'
+import {writeFile} from 'fs'
 const url = 'https://disease.sh/v3/covid-19/countries';
 
 async function save_img(url,file_path){
     const res = await fetch(url);
     const data =await res.buffer();
-    await fs.writeFile(file_path,data,(err)=>{if(err){console.log(err)}})
+    await writeFile(file_path,data,(err)=>{if(err){console.log(err)}})
 }
 async function main(){
     const res = await fetch(url);
